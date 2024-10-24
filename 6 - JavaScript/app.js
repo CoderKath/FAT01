@@ -1,7 +1,5 @@
-console.log("Hello World!");
-
-// This is a single-line comment
-/*
-    This is
-    a multi-line comment.
-*/
+// Functions
+function greet() {
+    console.log("Hello, welcome to world of functions.");
+    console.log("Let's goo!");
+  }
